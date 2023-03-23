@@ -1,2 +1,2 @@
 # IntSet
-This is a project that creates an Int Set
+This program is designed to handle sets of integers, allowing users to perform operations such as adding, removing, and checking for the presence of specific integers in a set. The IntSet class is the core of the program, providing the necessary functionality to manage sets of integers. The class uses an array to store the integers, and includes methods for adding integers to the set, removing them, and checking if they are present. Our program also includes methods for performing set operations such as union, intersection, and difference, allowing users to manipulate and compare sets of integers.
