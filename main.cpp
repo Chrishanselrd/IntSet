@@ -1,14 +1,3 @@
-// DO NOT change anything in this file. Your code must compile and give the
-// correct output with this main on the linux machines.
-// Do NOT put an endl in operator<<.  This program terminates normally.
-//
-// Be sure to name your files using lowercase. Windows is not case sensitive,
-// but unix/linux is case sensitive.
-
-// This sample main does not do a thorough job of testing.  When testing arrays,
-// be sure to test the middle and also all the boundary conditions.  Test
-// values on the boundary and outside the boundaries, i.e., too big/small.
-
 #include "intset.h"
 #include <iostream>
 using namespace std;
